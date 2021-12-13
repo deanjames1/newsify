@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/newsify/static/css/main.0c7a5a87.chunk.css",
+    "main.js": "/newsify/static/js/main.56a4fddb.chunk.js",
+    "main.js.map": "/newsify/static/js/main.56a4fddb.chunk.js.map",
+    "runtime-main.js": "/newsify/static/js/runtime-main.4b3249f5.js",
+    "runtime-main.js.map": "/newsify/static/js/runtime-main.4b3249f5.js.map",
+    "static/js/2.1ef3c1c2.chunk.js": "/newsify/static/js/2.1ef3c1c2.chunk.js",
+    "static/js/2.1ef3c1c2.chunk.js.map": "/newsify/static/js/2.1ef3c1c2.chunk.js.map",
+    "index.html": "/newsify/index.html",
+    "static/css/main.0c7a5a87.chunk.css.map": "/newsify/static/css/main.0c7a5a87.chunk.css.map",
+    "static/js/2.1ef3c1c2.chunk.js.LICENSE.txt": "/newsify/static/js/2.1ef3c1c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b3249f5.js",
+    "static/js/2.1ef3c1c2.chunk.js",
+    "static/css/main.0c7a5a87.chunk.css",
+    "static/js/main.56a4fddb.chunk.js"
+  ]
+}
